@@ -66,5 +66,5 @@ Este projeto não é afiliado, associado, autorizado, endossado por, ou de qualq
 
 ## License
 
-Copyright © 2022 [caioagiani](https://github.com/caioagiani).<br />
-Este projeto é licenciado [GNU AGPL](https://github.com/caioagiani/whatsapp-bot/blob/master/LICENSE).
+Copyright © 2022 [geovannesousa](https://github.com/).<br />
+Este projeto é licenciado [GNU AGPL](https://github.com//whatsapp-bot/blob/master/LICENSE).
