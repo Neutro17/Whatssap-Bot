@@ -62,7 +62,7 @@ Este projeto não é afiliado, associado, autorizado, endossado por, ou de qualq
 ## Contato
 
 - [LinkedIn](https://www.linkedin.com/in/caioagiani/)
-- caio.agiani14@gmail.com
+- gs199128@gmail.com
 
 ## License
 
